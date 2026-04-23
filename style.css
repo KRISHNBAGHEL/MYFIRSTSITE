@@ -1,0 +1,47 @@
+.H2{  
+  text-align:center;  
+  color: #09F6FF;  
+  font-size: 35px;  
+}  
+#body{  
+  background-color: #FF5300;  
+}  
+#hi{  
+  text-align: center;  
+  font-size: 25px;  
+}  
+.section{  
+  font-size: 20px;
+  color: #00FF00;
+  background: #110DF4;
+  text-align: center;  
+}  
+#pro{  
+  background: #3C00FF;  
+  color: #FF0000;  
+}  
+#hell{  
+  color: #22FF00;  
+  background: #8F00FF;  
+}  
+#hel{  
+  color: #22FF00;  
+  background: #8F00FF;  
+}  
+#button{
+ color:#F40D0D;
+ background: #0DF416;
+}
+#bh{
+  color:#00FF69
+}
+.hr{
+  color:#FF0000;
+  background: #39FF00;
+}
+#hh{
+  background:#000BFF;
+}
+#hg{
+  background:#0007FF;
+} 
